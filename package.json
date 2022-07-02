@@ -3,6 +3,17 @@
     "displayName": "Hacker Dark",
     "description": "Dark theme with vibrant colors",
     "version": "0.0.1",
+    "publisher": "HackerDark",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jbarber34/hacker-dark"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "hacker",
+        "hacker dark"
+    ],
     "engines": {
         "vscode": "^1.68.0"
     },

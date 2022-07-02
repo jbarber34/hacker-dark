@@ -1,13 +1,14 @@
-# README
-## This is the README for your extension "hacker-dark"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Hacker Dark Theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets
+VSCode Theme with vibrant colors. Works best with **HTML**, **CSS**, and **JavaScript**
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Installing
+
+This extension is available for free in the Visual Studio Code Marketplace
+<!-- [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items/akamud.vscode-theme-onedark)  -->
+
+## Customization
+
+If you are using VSCode 1.12+ versions you can customize the colors to your liking, overriding the ones provided by this theme. More info [here](https://code.visualstudio.com/docs/getstarted/theme-color-reference).
 
 **Enjoy!**
