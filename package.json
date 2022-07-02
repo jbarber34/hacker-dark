@@ -1,0 +1,21 @@
+{
+    "name": "hacker-dark",
+    "displayName": "Hacker Dark",
+    "description": "Dark theme with vibrant colors",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Hacker Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Hacker Dark Theme-color-theme.json"
+            }
+        ]
+    }
+}
