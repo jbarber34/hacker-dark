@@ -2,6 +2,9 @@
 
 VSCode Theme with vibrant colors. Works best with **HTML**, **CSS**, and **JavaScript**
 
+![Screen Shot 2022-07-02 at 5 05 45 PM](https://user-images.githubusercontent.com/38710518/177016146-3955fb3e-dbf4-4ed0-a24f-9772c1ae4768.png)
+
+
 ## Installing
 
 This extension is available for free in the Visual Studio Code Marketplace
