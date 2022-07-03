@@ -7,8 +7,7 @@ VSCode Theme with vibrant colors. Works best with **HTML**, **CSS**, and **JavaS
 
 ## Installing
 
-This extension is available for free in the Visual Studio Code Marketplace
-<!-- [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items/akamud.vscode-theme-onedark)  -->
+This extension is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=HackerDark.hacker-dark)
 
 ## Customization
 
