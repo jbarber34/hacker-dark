@@ -29,5 +29,8 @@
                 "path": "./themes/Hacker Dark Theme-color-theme.json"
             }
         ]
+    },
+    "devDependencies": {
+        "vsce": "^2.9.2"
     }
 }
