@@ -1,4 +1,4 @@
-# Hacker Dark Theme
+# <img src="https://user-images.githubusercontent.com/38710518/177437928-534d74d7-024c-461b-a171-c28838aeecd6.png" width="50" /> Hacker Dark Theme
 
 VSCode Theme with vibrant colors. Works best with **HTML**, **CSS**, and **JavaScript**
 
