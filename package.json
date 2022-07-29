@@ -1,36 +1,36 @@
 {
-    "name": "hacker-dark",
-    "displayName": "Hacker Dark",
-    "description": "Dark theme with vibrant colors",
-    "icon": "images/hacker_dark_icon.png",
-    "version": "0.1.0",
-    "publisher": "HackerDark",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/jbarber34/hacker-dark"
-    },
-    "keywords": [
-        "theme",
-        "dark theme",
-        "hacker",
-        "hacker dark"
-    ],
-    "engines": {
-        "vscode": "^1.68.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Hacker Dark Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Hacker Dark Theme-color-theme.json"
-            }
-        ]
-    },
-    "devDependencies": {
-        "vsce": "^2.9.2"
-    }
+  "name": "hacker-dark",
+  "displayName": "Hacker Dark",
+  "description": "Dark theme with vibrant colors",
+  "icon": "images/hacker_dark_icon.png",
+  "version": "0.4.0",
+  "publisher": "HackerDark",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jbarber34/hacker-dark"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "hacker",
+    "hacker dark"
+  ],
+  "engines": {
+    "vscode": "^1.68.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Hacker Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Hacker Dark Theme-color-theme.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "vsce": "^2.9.2"
+  }
 }

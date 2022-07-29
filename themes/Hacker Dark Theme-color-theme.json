@@ -232,7 +232,7 @@
       }
     },
     {
-      "name": "Invalid",
+      "name": "Invalid",     
       "scope": ["invalid", "invalid.illegal"],
       "settings": {
         "foreground": "#FF5370"
