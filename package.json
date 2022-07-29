@@ -3,7 +3,7 @@
   "displayName": "Hacker Dark",
   "description": "Dark theme with vibrant colors",
   "icon": "images/hacker_dark_icon.png",
-  "version": "0.5.0",
+  "version": "0.3.0",
   "publisher": "HackerDark",
   "repository": {
     "type": "git",
